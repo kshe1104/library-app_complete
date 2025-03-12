@@ -1,6 +1,7 @@
-도서관리 웹 애플리케이션!!
-
-SpringBoot, JPA, AWS EC2 를 활용한 도서관리 웹
+##도서관리 웹 애플리케이션!!
+* SpringBoot
+* JPA
+* AWS EC2 
 
 홈페이지
 <img width="1279" alt="image" src="https://github.com/user-attachments/assets/86dfc9db-e016-425f-8850-6ad5f7179c36" />

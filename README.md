@@ -20,7 +20,7 @@ SpringBoot, JPA, AWS EC2 를 활용한 도서관리 웹
 책 반납
 <img width="1274" alt="image" src="https://github.com/user-attachments/assets/9d4588fa-1ede-4f7e-b642-946db51fb82a" />
 
-============
+-----------------
 AWS EC2를 활용하여 배포까지 완료했습니다.
 
 가비아를 통해 도메인 주소를 구입 후 배포하려했으나 금액적인 문제로 보류했습니다.
